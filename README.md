@@ -1,6 +1,6 @@
 ### Hi there 🤘
 
-I'm Ivan. Why are you on my GitHub page? :
+I'm Ivan. Why are you on my GitHub page? :open_mouth:
 
 ### Facts about my life
 
