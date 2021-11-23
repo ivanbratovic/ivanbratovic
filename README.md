@@ -28,8 +28,8 @@ I'm Ivan. Why are you on my GitHub page? :open_mouth:
   <a href="https://traefik.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="traefik" width="40" height="40"/> </a>
   <a href="https://www.nginx.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.nist.gov/cyberframework" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="cybersec" width="40" height="40"/> </a>
-  <a href="https://www.javascript.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nist/nist-icon.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="cybersec" width="40" height="40"/> </a>
+  <a href="https://www.nist.gov/cyberframework/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nist/nist-icon.svg" alt="nist" width="40" height="40"/> </a>
   <a href="https://grails.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grails/grails-icon.svg" alt="grails" width="40" height="40"/> </a>
   <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
   <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
