@@ -2,23 +2,31 @@
 
 I'm Ivan. Why are you on my GitHub page? :open_mouth:
 
+Welcome, regardless!
+
 ### Facts about my life
 
 - CS major 💻
 - From Croatia 🇭🇷
+- DevOps Engineer by trade 🔄
 - Open Source is good (I use Arch BTW) 🐧
 - [Victor Mono](https://rubjo.github.io/victor-mono/) with [One Monokai](https://github.com/azemoh/vscode-one-monokai) is my 𝓪𝓮𝓼𝓽𝓱𝓮𝓽𝓲𝓬 ✨
-- My favourite IDE is Notepad++ 📓
+- My favourite editor is VS Code 📓
+- Internet security enthusiast 🔐
 
 ### I also use some programming languages
 
 - Python 🐍
+  - Check out my Python project called [Laebelmaker](https://github.com/ivanbratovic/laebelmaker) 🏷️
 - C 💾
-- C++ 💾2️⃣
+  - Network programming? [I did it.](https://github.com/ivanbratovic/libuv-examples) 🌐
+- JavaScript 🟨
 - Java ☕
 - Brainfuck `[->+<]`
+  - Check out [my Brainfuck interpreter](https://github.com/ivanbratovic/brainfuck-py)
 
 ### Other skills I remembered I had
+Not all of them.
 <p align="left">
   <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
@@ -32,7 +40,7 @@ I'm Ivan. Why are you on my GitHub page? :open_mouth:
   <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.mercurial-scm.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mercurial-scm/mercurial-scm-icon.svg" alt="mercurial" width="40" height="40"/> </a>
-  <br/>
+<br/>
   <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
   <a href="https://prometheus.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="grafana" width="40" height="40"/> </a>
   <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
@@ -50,7 +58,7 @@ I'm Ivan. Why are you on my GitHub page? :open_mouth:
 ### Check out my miserable GitHub stats
 [![My miserable GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanbratovic&count_private=true&show_icons=true&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My miserable GitHub stats](https://github-profile-trophy.vercel.app/?username=ivanbratovic&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
+[![My miserable GitHub stats](https://github-profile-trophy.vercel.app/?username=ivanbratovic&theme=onedark&column=3&row=2)](https://github.com/ryo-ma/github-profile-trophy) 
 
 
 
