@@ -9,9 +9,9 @@ Welcome, regardless!
 - CS major 💻
 - From Croatia 🇭🇷
 - DevOps Engineer by trade 🔄
-- Open Source is good (I use Arch BTW) 🐧
+- Open Source supporter (I use Arch BTW) 🐧
 - [Victor Mono](https://rubjo.github.io/victor-mono/) with [One Monokai](https://github.com/azemoh/vscode-one-monokai) is my 𝓪𝓮𝓼𝓽𝓱𝓮𝓽𝓲𝓬 ✨
-- My favourite editor is VS Code 📓
+- My editor of choice is VS Code 📓
 - Internet security enthusiast 🔐
 
 ### I also use some programming languages
