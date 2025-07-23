@@ -1,29 +1,29 @@
 ### Hi there 🤘
 
-I'm Ivan. Why are you on my GitHub page? :open_mouth:
+I'm Ivan. Welcome!
 
-Welcome, regardless!
+### Facts about me
 
-### Facts about my life
-
-- CS major 💻
 - From Croatia 🇭🇷
+- Computer Science major
+  - My alma mater is [FER](https://www.fer.unizg.hr/) 💻
 - DevOps Engineer by trade 🔄
-- Open Source supporter (I use Arch BTW) 🐧
+- Open Source supporter 🐧
 - [Victor Mono](https://rubjo.github.io/victor-mono/) with [One Monokai](https://github.com/azemoh/vscode-one-monokai) is my 𝓪𝓮𝓼𝓽𝓱𝓮𝓽𝓲𝓬 ✨
-- My editor of choice is VS Code 📓
+- My editor of choice is [VSCodium](https://vscodium.com/) 📓
 - Internet security enthusiast 🔐
 
-### I also use some programming languages
+### GitHub projects showcase
 
+- DevOps stuff 🚀
+  - A small sample of a K8s deployment with Helm: [Minik8s](https://github.com/ivanbratovic/minik8s)
+  - Automatic Minecraft server deploment with Docker Compose and scripting: [PaperMC Deployment](https://github.com/ivanbratovic/papermc-deployment)
+  - Collection of [Fish function I use daily](https://github.com/ivanbratovic/fish-functions)
 - Python 🐍
   - Check out my Python project called [Laebelmaker](https://github.com/ivanbratovic/laebelmaker) 🏷️
+  - Also [my Brainfuck interpreter](https://github.com/ivanbratovic/brainfuck-py)
 - C 💾
   - Network programming? [I did it.](https://github.com/ivanbratovic/libuv-examples) 🌐
-- JavaScript 🟨
-- Java ☕
-- Brainfuck `[->+<]`
-  - Check out [my Brainfuck interpreter](https://github.com/ivanbratovic/brainfuck-py)
 
 ### Other skills I remembered I had
 Not all of them.
@@ -59,7 +59,3 @@ Not all of them.
 [![My miserable GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanbratovic&count_private=true&show_icons=true&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My miserable GitHub stats](https://github-profile-trophy.vercel.app/?username=ivanbratovic&theme=onedark&column=3&row=2)](https://github.com/ryo-ma/github-profile-trophy) 
-
-
-
-If you were a fruit, which fruit would you be and why?
