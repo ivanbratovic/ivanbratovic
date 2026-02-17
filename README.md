@@ -56,6 +56,6 @@ Not all of them.
 </p>
 
 ### Check out my miserable GitHub stats
-[![My miserable GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanbratovic&count_private=true&show_icons=true&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![My miserable GitHub stats](https://github-readme-stats.bratovi.cc/api?username=ivanbratovic&count_private=true&show_icons=true&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My miserable GitHub stats](https://github-profile-trophy.vercel.app/?username=ivanbratovic&theme=onedark&column=3&row=2)](https://github.com/ryo-ma/github-profile-trophy) 
